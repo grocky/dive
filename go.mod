@@ -12,7 +12,7 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/elazarl/goproxy/ext v0.0.0-20190911111923-ecfe977594f1 // indirect
 	github.com/fatih/color v1.7.0
-	github.com/gogo/protobuf v1.3.0 // indirect
+	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/google/uuid v1.1.1
 	github.com/jroimartin/gocui v0.4.0
 	github.com/logrusorgru/aurora v0.0.0-20190803045625-94edacc10f9b
@@ -30,9 +30,7 @@ require (
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/viper v1.4.0
 	github.com/wagoodman/keybinding v0.0.0-20181213133715-6a824da6df05
-	golang.org/x/crypto v0.0.0-20190907121410-71b5226ff739 // indirect
-	golang.org/x/net v0.0.0-20190827160401-ba9fcec4b297
-	golang.org/x/sys v0.0.0-20190907184412-d223b2b6db03 // indirect
+	golang.org/x/net v0.0.0-20201021035429-f5854403a974
 )
 
 // related to an invalid pseudo version in github.com/docker/distribution@v0.0.0-20181126153310-93e082742a009850ac46962150b2f652a822c5ff
